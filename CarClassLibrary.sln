@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarClassLibrary", "CarClassLibrary\CarClassLibrary.csproj", "{29C3E628-D9B2-494C-938F-212DB9140673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShopConsoleApp", "CarShopConsoleApp\CarShopConsoleApp.csproj", "{1B67B558-C56F-4F92-9B9D-10A94A0B8882}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B78B6124-9DA1-46D3-992A-8EC77BEA8873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C3E628-D9B2-494C-938F-212DB9140673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C3E628-D9B2-494C-938F-212DB9140673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C3E628-D9B2-494C-938F-212DB9140673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C3E628-D9B2-494C-938F-212DB9140673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B67B558-C56F-4F92-9B9D-10A94A0B8882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B67B558-C56F-4F92-9B9D-10A94A0B8882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B67B558-C56F-4F92-9B9D-10A94A0B8882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B67B558-C56F-4F92-9B9D-10A94A0B8882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C62FDFFF-30FB-45BB-8585-56C5EAB1D97A}
+	EndGlobalSection
+EndGlobal
