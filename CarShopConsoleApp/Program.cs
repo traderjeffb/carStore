@@ -16,6 +16,7 @@ namespace CarShopConsoleApp
 
             Console.WriteLine("car d is as follows:" + c.Make +" " + c.Model + " " + c.Price);
             Console.WriteLine("car D is as follows:" + d.Make + " " + d.Model + " " + d.Price);
+
             Store s = new Store();
 
             s.ShoppingList.Add(c);
